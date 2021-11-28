@@ -1,1 +1,0 @@
-In this tutorial, CNN is trained with photos of cats and dogs to make predictions whether it is a cat's or dog's photo.
