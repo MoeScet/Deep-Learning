@@ -1,0 +1,1 @@
+In this tutorial, a fictional bank is facing unsually high churn rate. We are building an artificial brain using Tensor Flow 2.0 to make predictions based on data collected.
