@@ -1,0 +1,1 @@
+Our goal is to return the list of potential fraudulant customers by identifying some patterns in a high dimensional data sets full of non linear relationships and one of these patterns will be the potential fraud.
