@@ -1,0 +1,1 @@
+This challenge about combining two deep learning modes, Artificial Neural Network (ANN) and Self-Organizing Map (SOM). We start with the credit "Credit_Card_Applications.csv" data set to identify the frauds and then predict the probability that each customer might cheat.
