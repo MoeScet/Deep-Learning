@@ -1,0 +1,1 @@
+This model predicts if a user would like the movie based on the user's ratings given on other movies.
