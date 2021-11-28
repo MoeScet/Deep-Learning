@@ -1,0 +1,1 @@
+We are building an RNN to predict Google's stock price using past 60 days' stock prices. 
